@@ -10,8 +10,6 @@ val imageView = viewGroup.findViewById<ColoredAvatarView>(R.id.avatarView)
 imageView.setAvatarValue("testValue")
 ```
 
-where `pixelplex` - an Echo account name, and `100` - an avatar size.
-
 And as result, you will receive the image with your unique avatar
 
 As example:
